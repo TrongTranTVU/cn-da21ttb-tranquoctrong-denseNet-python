@@ -1,4 +1,4 @@
-##**🎯 Nhận Dạng Đối Tượng Bằng Mô Hình DenseNet-121**
+**🎯 Nhận Dạng Đối Tượng Bằng Mô Hình DenseNet-121**
 
 **🌟 Giới Thiệu**
 Chào mừng bạn đến với dự án Nhận Dạng Đối Tượng bằng DenseNet-121! Đây là một dự án deep learning được xây dựng nhằm nhận dạng các đối tượng trong hình ảnh bằng cách sử dụng mô hình DenseNet-121, một mạng nơ-ron tích chập sâu với cấu trúc kết nối dày đặc.
